@@ -1,0 +1,13 @@
+{
+   "maintainer": "OpenSource-Edge-for-IBM-Tool-1",
+   "package_name": "memoized-property",
+   "github_url": "https://github.com/estebistec/python-memoized-property",
+   "version": "releases/1.0.2",
+   "default_branch": "master",
+   "build_script": "memoized-property_ubi_9.3.sh",
+   "package_dir": "m/memoized-property",
+   "docker_build": false,
+   "wheel_build": true,
+   "validate_build_script": true,
+   "use_non_root_user": false
+}
