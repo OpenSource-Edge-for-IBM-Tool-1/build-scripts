@@ -1,0 +1,13 @@
+{
+   "maintainer": "OpenSource-Edge-for-IBM-Tool-1",
+   "package_name": "dataclasses-json",
+   "github_url": "https://github.com/lidatong/dataclasses-json",
+   "version": "v0.6.7",
+   "default_branch": "master",
+   "build_script": "dataclasses-json_ubi_9.3.sh",
+   "package_dir": "d/dataclasses-json",
+   "docker_build": false,
+   "wheel_build": true,
+   "validate_build_script": true,
+   "use_non_root_user": false
+}
